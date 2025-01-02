@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Ndzouana
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: fr-FR
+author: Makoko
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://makoko-ndz.github.io/project
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
