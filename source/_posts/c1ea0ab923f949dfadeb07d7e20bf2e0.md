@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Vidéos Pontault-Combault
+title: 2021_11-Pontault-Combault
 abbrlink: c1ea0ab923f949dfadeb07d7e20bf2e0
 tags: []
 categories:
   - Groupe Folklorique
   - Prestation 2021
-  - 2021_11_13 Pontault-Combault
 date: 1636819440000
-updated: 1739560068984
+updated: 1739566645802
 ---
 
 # 1<sup>ère</sup> partie
