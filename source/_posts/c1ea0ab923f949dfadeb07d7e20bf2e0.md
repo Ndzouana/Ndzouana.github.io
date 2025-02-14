@@ -8,17 +8,35 @@ categories:
   - Prestation 2021
   - 2021_11_13 Pontault-Combault
 date: 1636819440000
-updated: 1739473941659
+updated: 1739560068984
 ---
 
 # 1<sup>ère</sup> partie
 
-[<img src="/resources/352943c1642b48209d15a2411579aee0.png">](https://youtu.be/cqBfltFPpog)
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; width:100%;">
+  <iframe src="https://www.youtube.com/embed/cqBfltFPpog" 
+          style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 # 2<sup>ème</sup> partie
 
-[<img src="/resources/080773117fe844ce862195135fbb1627.png">](https://youtu.be/doBLFs1JHu0)
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; width:100%;">
+  <iframe src="https://www.youtube.com/embed/doBLFs1JHu0" 
+          style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 # 3<sup>ème</sup> partie
 
-[<img src="/resources/080773117fe844ce862195135fbb1627.png">](https://youtu.be/-oXhmTkObUo)
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; width:100%;">
+  <iframe src="https://www.youtube.com/embed/-oXhmTkObUo" 
+          style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
