@@ -7,7 +7,7 @@ categories:
   - Groupe Folklorique
   - Carte Prestations
 date: 1736005200000
-updated: 1736536851487
+updated: 1739518008940
 ---
 
-[Prestations sur toutes la France](https://www.google.com/maps/d/viewer?mid=1GF4UL3oiEKA3KBRbwVq49Ff262ZrXoA\&hl=fr\&usp=sharing)
+![Prestations sur toutes la France](/resources/bd0632fba3ec436eb270b9b4c5b62132.png "Prestations sur toutes la France")
