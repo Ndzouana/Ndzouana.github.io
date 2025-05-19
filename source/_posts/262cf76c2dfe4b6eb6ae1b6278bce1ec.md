@@ -7,7 +7,7 @@ categories:
   - Groupe Folklorique
   - Carte Prestations
 date: 1736005200000
-updated: 1747660475031
+updated: 1747660720024
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1GF4UL3oiEKA3KBRbwVq49Ff262ZrXoA&hl=fr&ehbc=2E312F" width="480" height="360"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1GF4UL3oiEKA3KBRbwVq49Ff262ZrXoA&hl=fr&ehbc=2E312F" width="520" height="390"></iframe>
