@@ -5,7 +5,7 @@ abbrlink: ed11e47c8e444baf8c5bd81ce6f7ca9a
 tags: []
 categories:
   - Groupe Folklorique
-  - Prestation 2025
+  - Prestations 2025
 date: 1763839560000
 updated: 1763840700000
 ---
