@@ -8,7 +8,7 @@ categories:
   - "2026"
   - Assemblée générale
 date: 1774709220000
-updated: 1779977820000
+updated: 1779091329252
 ---
 
 ![logo-fond-transp Très reduit.png](/resources/7a005d93902c42c8b024e1af5ff6806f.png)
@@ -83,6 +83,8 @@ Avec 14 membres présents, 8 membres excusés dont 7 procurations(mandats), le q
 
 Présenté par le secrétaire Mr Lilian NKOUA LIKIBI, sous la supervision du président, le secrétaire nous retrace l’activité de l’année écoulée, les temps forts qui ont marqué la vie de l’association et ses activités.
 Le rapport moral est validé et approuvé à l’unanimité des membres présents.
+
+[Rapport Moral 2025.pdf](/resources/0e6743a996d047b4a08288c6d2df7de4.pdf)
 
 ***
 
