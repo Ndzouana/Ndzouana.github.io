@@ -8,13 +8,13 @@ categories:
   - "2026"
   - Assemblée générale
 date: 1774709220000
-updated: 1779091329252
+updated: 1791909339092
 ---
 
 ![logo-fond-transp Très reduit.png](/resources/7a005d93902c42c8b024e1af5ff6806f.png)
 
-| **Procès-verbal de la réunion de l'association N'Dzouana du 28 mars 2026** |
-| -------------------------------------------------------------------------- |
+| \*\* 28 mars 2026\*\* |
+| --------------------- |
 
 *La réunion s'est tenue à la maison de La Salle
 78a de la rue de Sèvres 75007 Paris*
